@@ -1,5 +1,4 @@
 const supertest = require("supertest");
-const { intersect } = require("../data/dbConfig");
 
 const server = require("./server");
 
